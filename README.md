@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 - 🔭 I’m currently working on Vingroup coporation **CĐS**. I'm a solution architecture.
 
-- 💬 Ask me about **.Net, ReactJs, SQL, NoSql, JS**
+- 💬 Ask me about **.Net, ReactJs, SQL, NoSql, JS, AWS, Mulesoft**
 
 - 📫 How to reach me **tienvuongnb@gmail.com**
 
