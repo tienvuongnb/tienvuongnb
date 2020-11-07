@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vượng</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
-- 🔭 I’m currently working on Vingroup coporation **CĐS**
+- 🔭 I’m currently working on Vingroup coporation **CĐS**. I'm a solution architecture.
 
 - 💬 Ask me about **.Net, ReactJs, SQL, NoSql, JS**
 
